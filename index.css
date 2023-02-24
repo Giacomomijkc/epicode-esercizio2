@@ -1,0 +1,117 @@
+#header {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+#logo{
+    max-width: 250px;
+    max-height: 60px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+#banner-head{
+    border-top: solid;
+    border-color: #f2b035;
+    background: #f5eda9;
+    height: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    color: #03615f;
+    margin-top: 15px;
+    padding-bottom: 10px;
+}
+
+#main-title{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-top: 70px;
+}
+
+#paragrafo{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.title{
+    font-weight: lighter;
+    font-size: 30px;
+}
+
+#title-banner{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+#main-image{
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px #9f9f9f;   
+}
+
+.image-section{
+    display: grid;
+    place-items: center;
+}
+
+#credit-photo{
+    color: grey;
+    font-weight: lighter;
+}
+
+#banner-featured{
+    padding-left: 270px;
+}
+
+#featured{
+    border-left: solid;
+    border-color: #f2b035;
+    text-align: left;
+    padding-left: 20px;
+}
+
+.recip{
+    padding-left: 270px;
+}
+
+#title-ingredient{
+    margin-top: 60px;  
+    font-weight: lighter;
+}
+
+#title-method{  
+    font-weight: lighter;
+}
+
+#recip{  
+    padding-left: 20px;
+}
+
+.list{  
+    padding-left: 300px;
+    line-height: 30px;
+}
+
+#footer{
+    text-align: left;
+    padding-left: 270px;  
+}
+
+#first-element{
+    font-weight: bold; 
+}
+
+.line{
+    border-bottom: 1px solid aquamarine;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 720px;
+    text-align: center;
+    padding-left: 0px;
+}
